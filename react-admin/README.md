@@ -41,4 +41,4 @@ export default function HomePage() {
 
 4. Build your react app and past it to nextjs/public folder and rename `build` to `admin`
 
-Next config nextjs app
+Next step: Configure nextjs app
